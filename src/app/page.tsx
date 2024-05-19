@@ -13,6 +13,10 @@ const pages = [
     name: "Blog",
     href: "/blog",
   },
+  {
+    name: "Resume",
+    href: "/resume",
+  },
 ];
 
 const Page = () => {
